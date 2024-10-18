@@ -5,7 +5,8 @@
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=galvains&theme=tokyonight" alt="mystreak"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=galvains&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+
+[![](https://leetcard.jacoblin.cool/galvains?theme=nord)](https://leetcode.com/galvains)
 
 ##
 [![](https://visitcount.itsvg.in/api?id=galvains&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
